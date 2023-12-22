@@ -1,0 +1,17 @@
+.profile-list {
+    width: 700px;
+    padding: 0 15px;
+    margin: 30px auto;
+    >.profile-card1{
+        >img {
+            width: 345px;
+            height: 573px;
+            object-fit: cover;
+            border-radius: 50px;
+        }
+    }
+    h2{
+        font-size: 18px;
+        font-weight: 500;
+    }
+}
